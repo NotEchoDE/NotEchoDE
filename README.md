@@ -1,4 +1,4 @@
-### Hi there, I'm Jan - aka [NotEchoDE][website] or [Kexesser][twitch] 👋 
+### Hi there, I'm [Jan Herzog][website] - aka [Kexesser][twitch] 👋 
 
 [![Website](https://img.shields.io/website?label=janherzog.eu&style=for-the-badge&url=https%3A%2F%2Fjanherzog.eu)](https://janherzog.eu)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JanKexesser?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNotEchoDE&screen_name=NotEchoDE)
