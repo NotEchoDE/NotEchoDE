@@ -5,8 +5,8 @@
 
 ## I'm a Developer, Gamer, and Teacher!
 
-- 🔭 I just launched my own website for private tutoring: [notecho.de][notecho]!
-- 🌱 I’m currently learning many Java frameworks
+- 🔭 I recently ran my own website for private tutoring, but I'm now engaged in other projects.
+- 🌱 I’m currently learning many Java and Frontend frameworks
 - ⚡ Always up for new stuff
 
 ### Connect with me:
@@ -15,6 +15,7 @@
 [<img align="left" alt="Kexesser | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="Kexesser | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Jan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Jan Herzog | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -39,4 +40,4 @@
 [twitter]: https://twitter.com/JanKexesser
 [instagram]: https://instagram.com/jn.hrzg
 [twitch]: https://twitch.tv/kexesser
-[notecho]: https://www.notecho.de/
+[linkedin]: https://www.linkedin.com/in/jan-herzog-7519b1230/
